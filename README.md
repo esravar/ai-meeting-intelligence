@@ -108,9 +108,17 @@ streamlit run main.py --server.address=0.0.0.0
 
 ## Demo Screenshots
 
-(Add screenshots here)
+### Main Interface
 
----
+![Main Interface](assets/demo_ui-general.png)
+
+### File Upload & Knowledge Base Creation
+
+![Upload Flow](assets/demo_ui-selection.png)
+
+### RAG-based Question Answering
+
+![RAG Answer](assets/demo_answer.png)
 
 ## Future Improvements
 
