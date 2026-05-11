@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+openai
+langchain
+langchain-openai
+chromadb
+pypdf
+tiktoken
+pandas
+langchain-text-splitters
+langchain-community
+sentence-transformers
+reportlab
+faster-whisper
